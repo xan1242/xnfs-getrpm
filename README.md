@@ -17,6 +17,7 @@ The included solution is made from VS2015, however, you should be able to build 
 - IUP library: https://sourceforge.net/projects/iup/
 - Canvas Draw library: https://sourceforge.net/projects/canvasdraw/
 
+### Build process
 - Open GetRPM.sln
 - Select the configuration that you desire.
 - Set the include and library directories in VC++ Directories in the solution properties settings (temporary, will not be necessary later)
