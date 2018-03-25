@@ -3,6 +3,7 @@ Small addon for NFS to read out some vehicle status
 
 ## Games supported
 This will only support games that implement the DALManager (Carbon and newer)
+
 Currently this only works with Carbon, but expected games to work are:
 - Need for Speed: Carbon
 - Need for Speed: ProStreet
